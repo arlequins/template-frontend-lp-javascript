@@ -1,0 +1,9 @@
+# sources
+.DS_Store
+node_modules/
+.tool-versions
+.editorconfig
+
+# others
+package-lock.json
+dist
